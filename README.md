@@ -28,15 +28,11 @@ The dataset captures user profiles, activity, content uploads, reactions, and se
 <ul>
   <li>16 Unique Categories among which the top 5 categories have the highest Popularity scores.</li>
   <li>The Animal category received 1,897 reactions, representing 21% of total interaction.</li>
-  <li></li>
   <li>May month has had the highest volume of posts i.e. 2138, indicating increased user activity or content generation during this period.</li>
 </ul>
 
 
 <h2>🔧 Tools and Technologies</h2>
 <ul>
-  <li><strong>Programming:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)</li>
-  <li><strong>APIs:</strong> Twitter API, Instagram Graph API</li>
-  <li><strong>Machine Learning:</strong> Scikit-learn for sentiment analysis</li>
-  <li><strong>Visualization:</strong> Tableau, Power BI</li>
+  <li><strong>Visualization:</strong> Ms.Excel</li>
 </ul>
