@@ -19,7 +19,7 @@ The dataset captures user profiles, activity, content uploads, reactions, and se
 
 <h2>🔍 Objectives</h2>
 <ul>
-  <li>Identify trending hashtags and topics.</li>
+  <li>Identify trending Content.</li>
   <li>Analyze audience engagement patterns.</li>
   <li>Determine overall sentiment towards brands or topics.</li>
 </ul>
